@@ -1,0 +1,15 @@
+
+[
+  {
+    "id": 1,
+    "nombre": "Brownie Vegano",
+    "precio": 35,
+    "imagen": "brownie.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Cupcake Vainilla",
+    "precio": 30,
+    "imagen": "cupcake.jpg"
+  }
+]
